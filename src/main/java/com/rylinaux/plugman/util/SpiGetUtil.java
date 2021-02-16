@@ -39,10 +39,10 @@ import org.apache.http.impl.client.HttpClients;
 
 import org.bukkit.Bukkit;
 import org.bukkit.plugin.Plugin;
-
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 import org.json.simple.JSONValue;
+
 
 /**
  * Utilities for dealing with the SpiGet API.
